@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Waves and Wizards"
+excerpt: "A round based shooter with fantasy elements developed as a capstone project from 2024-2025<br/><img src='/images/WavesandWizards.png'>"
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Coming April 2025
+Waves and Wizards was a pitch idea I created in September 2024, and presented it to 50 other students in my course. Fortunately, my game and only 6 others got greenlit into becoming real projects and I became the project lead, working alongside 7 other student developers over 8 months to create a feature finished project. My team and I will be presenting Waves and Wizards at Ubisoft's Level Up in Toronto mid April.

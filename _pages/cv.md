@@ -14,20 +14,6 @@ Education
 * Associates Degree in Game Design, Conestoga College, 2025
 * Co-Curricular for participation in VARlab Game Jam 2025
 
-Work experience
-======
-* Spring 2023 - Summer 2024
-  * Assistant General Manager
-  * The Burger's Priest
-
-* Summer 2021 - Spring 2023
-  * Team Leader
-  * Chick-Fil-A
-
-* Summer 2018 - Summer 2021
-  * Supervisor
-  * McDonalds
-
 Skills
 ======
 * Unity Engine
@@ -42,6 +28,20 @@ Skills
   * Illustrator
   * After Effects
   * Premiere Pro
+
+Work experience
+======
+* Spring 2023 - Summer 2024
+  * Assistant General Manager
+  * The Burger's Priest
+
+* Summer 2021 - Spring 2023
+  * Team Leader
+  * Chick-Fil-A
+
+* Summer 2018 - Summer 2021
+  * Supervisor
+  * McDonalds
 
 Talks
 ======
